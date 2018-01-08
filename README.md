@@ -45,13 +45,13 @@ javascript:void(function(u,s){s=document.body.appendChild(document.createElement
 
 Make sure you can open this page.
 
-1. Open [course table page on eams](http://ids.shanghaitech.edu.cn/authserver/login?service=http%3A%2F%2Feams.shanghaitech.edu.cn%2Feams%2FstdExamTable.action).
+1. Open [exam table page on eams](http://ids.shanghaitech.edu.cn/authserver/login?service=http%3A%2F%2Feams.shanghaitech.edu.cn%2Feams%2FstdExamTable.action).
 2. Click [Export Exam Table] in your favorites. Or paste the running code into your navigation panel.
 3. Click [Download].
 
 请先保证你可以通过某些方法打开现在这个页面。
 
-1. 进入 [教学管理系统-我的课程表](http://ids.shanghaitech.edu.cn/authserver/login?service=http%3A%2F%2Feams.shanghaitech.edu.cn%2Feams%2FstdExamTable.action)。
+1. 进入 [教学管理系统-我的考试](http://ids.shanghaitech.edu.cn/authserver/login?service=http%3A%2F%2Feams.shanghaitech.edu.cn%2Feams%2FstdExamTable.action)。
 2. 点击收藏夹中的 [Export Exam Table]。或者将代码复制到地址栏运行。
 3. 点击 [Download]。
 
