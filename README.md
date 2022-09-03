@@ -31,14 +31,14 @@ Just drag this [INSTALL] button to your favorites of your browser.
 
 非常简单，将下面的安装按钮拖到收藏夹就可以了。
 
-[![Export Exam Table](installbutton.png) Export Exam Table](javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://eastpiger.github.io/Exam-Table-ICS-Formatter/dist.js')))
+[![Export Exam Table](installbutton.png) Export Exam Table](javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://wtlyu.github.io/Exam-Table-ICS-Formatter/dist.js')))
 
 Or copy these code into your navigation panel. Remember add ```javascript:``` before the code after paste
 
 或者将如下代码复制到地址栏运行。请注意复制后在代码开头重新添加 ```javascript:``` 。
 
 ``` javascript
-javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://eastpiger.github.io/Exam-Table-ICS-Formatter/dist.js'))
+javascript:void(function(u,s){s=document.body.appendChild(document.createElement('script'));s.src=u+'?ts='+Date.now();s.charset='UTF-8'}('https://wtlyu.github.io/Exam-Table-ICS-Formatter/dist.js'))
 ```
 
 ## Usage
@@ -61,4 +61,4 @@ Tips: Send the ics file to your mailbox will have a better experience!
 
 小贴士： 把ics文件发送到自己的邮箱会有意想不到的效果！
 
-[求Star](https://github.com/eastpiger/Exam-Table-ICS-Formatter)
+[求Star](https://github.com/wtlyu/Exam-Table-ICS-Formatter)
